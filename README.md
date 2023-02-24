@@ -1,2 +1,2 @@
 # dummy-github-events
-Github Webhook using spring book
+Github Webhook using spring boot
